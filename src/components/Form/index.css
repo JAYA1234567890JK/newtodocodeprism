@@ -1,0 +1,59 @@
+.task-input {
+  height: 30px;
+  width: 180px;
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+}
+.button-add {
+  height: 28px;
+  background-color: #f7c179;
+  border: 1px solid;
+  border-radius: 3px;
+}
+.todo-list {
+  font-size: 20px;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin: 10px;
+  font-weight: 700;
+  border: 1px solid black;
+  height: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+.complete-list {
+  color: #1f1a1a;
+  font-size: 20px;
+  list-style: none;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.completed-todo {
+  color: #726b78;
+  font-weight: 600;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.not-conpleted-todo {
+  color: black;
+  font-weight: 400;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+}
+.icon-comp {
+  background-color: transparent;
+  width: 20px;
+}
